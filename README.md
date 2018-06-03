@@ -13,7 +13,8 @@
 		<li>DB_PASSWORD=root</li>
 	</ul>
 </p>
-<p>Now open terminal and enter the directory <strong>src/</strong> and run this command <string>php artisan serve</string></p>
+<p>Now open terminal and enter the directory <strong>src/</strong> and run this command <string>composer install</string></p>
+<p>After it is completed, now it's time to run the project my this command <strong>php artisan serve</strong></p>
 <p>YOU MUST HAVE PHP5.6 INSTALLED</p>
 
 <h3>Scenario</h3>
